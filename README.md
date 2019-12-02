@@ -1,5 +1,7 @@
 # Tensorflow_2_Keras  
 Deep Learning for Keras in Tensorflow 2  
+
+아 버전 왜 바꾼거여 ㅋㅋㅋ 존나 귀찮네 ㅋㅋㅋㅋ  
  
 * Basic Keras: https://www.tensorflow.org/tutorials/keras/classification  
 * Transformer in TF: https://www.tensorflow.org/tutorials/text/transformer  
